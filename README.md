@@ -1,0 +1,7 @@
+## Programming a Tic Tac Toe Game In Python
+
+Hello and welcome to this note you left for yourself, future self. This repository is dedicated to the archival of the guided work you did in Python on a Tic Tac Toe game as part of Jose Portilla's Python Boot Camp course purchased from Udemy. You were 45% completed with the course at this time and this was the first of three projects Jose had lined up for students. Participation in this course was part of your master plan to achieve _TensorFlow_ certification within one year. You conceived of this master plan after meditating one day at the beginning of July and after watching the episode of It's Always Sunny In Philadelphia where the gang is in court defending Bill Ponderosa.
+
+You are currently studying in one-hour-and-five-minute intervals with breaks of varying time between each session. If you were in the middle of something when the timer went off, you continued until a reasonable conclusion. As of this writing, you had been able to sleep for seven consecutive days and have been free of panic attacks during that time. This is a record since 2008. Additionally, you had not drank alcohol for more than three months after spending a night out celebrating a cousin's birthday. That was a single blip in what had been three years completely sober.
+
+This README.md writing is chewing up time in my 1:05.00, so I am going to end here. But these journals are good for a lot of reasons and allow me to reflect on what it is exactly that I am doing.
